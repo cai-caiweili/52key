@@ -66,39 +66,7 @@
         };
     };
 
-   combos {
-        compatible = "zmk,combos";
 
-        combo_00 {
-            timeout-ms = <50>;
-            key-positions = <>;
-            bindings = <&kp  LSHFT>;
-        };
-
-        combo_11 {
-            timeout-ms = <40>;
-            key-positions = <>;
-            bindings = <&mo 2>;
-        };
-
-        combo_22 {
-            timeout-ms = <50>;
-            key-positions = <>;
-            bindings = <&kp EXCL>;
-        };
-
-        combo_33 {
-            timeout-ms = <50>;
-            key-positions = <>;
-            bindings = <&kp AT>;
-        };
-
-        combo_44 {
-            timeout-ms = <50>;
-            key-positions = <>;
-            bindings = <&kp HASH>;
-        };
-    };
 
     keymap {
         compatible = "zmk,keymap";
