@@ -149,7 +149,7 @@
 &sys_reset  &none         &none              &none             &none              &out OUT_USB  &out OUT_USB  &none         &none         &none         &none         &sys_reset
 &none       &none         &ext_power EP_TOG  &ext_power EP_ON  &ext_power EP_OFF  &out OUT_BLE  &out OUT_BLE  &none         &none         &none         &none         &none
                           &none              &none             &none              &none         &none         &none         &none         &none
-                          &none              &none             &none              &none         &none         &none         &none         &none
+                          &none              &none             &none              &none         &none         &none         &none         &none，
             >;
         };
     };
